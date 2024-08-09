@@ -14,3 +14,4 @@ while(cantidadDeProductos < 3) {
 }
 
 console.log(`El total a pagar es: ${totalAPagar}`);
+console.log(`La cantidad de productos comprados es: ${cantidadDeProductos}`)
